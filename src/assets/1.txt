@@ -1,0 +1,46 @@
+axios   反向代理  路由  路由守卫   vuex
+
+vue:
+
+   基础 vue面试题
+   vant
+   element-ui  
+   
+   首页  角色  权限 员工  审批 工资  国际化  更换主题
+
+   elemetui-admin-templent  axios  vuex  router element-ui cookie
+   
+
+
+   document.documentElement.requestFullscreen() 实现全屏
+   document.exitFullscreen() 退出全屏
+
+
+   插件：screenfull   
+
+    npm install --save-dev screenfull@5.1.0
+
+
+
+
+国际化：
+
+   1.下载：  npm install vue-i18n@8
+
+   2.引入 src/lang/index.js
+
+        引入vue 引入i8n   英文包 中文包 
+
+  3.main.js 中挂载
+
+  
+
+
+
+
+
+
+
+   
+
+
